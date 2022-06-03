@@ -1,7 +1,10 @@
-[![zambrovski's github stats](https://github-readme-stats.vercel.app/api?username=zambrovski&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anuraghazra/github-readme-stats)
-[![zambrovski's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zambrovski&hide=scala,javascript,css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/zambrovski/zambrovski)
+## General
 
-### Hi there 👋
+[![zambrovski's github stats](https://github-readme-stats.vercel.app/api?username=zambrovski&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anuraghazra/github-readme-stats)
+
+## My own repositories:
+
+[![zambrovski's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zambrovski&hide=scala,javascript,css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/zambrovski/zambrovski)
 
 <!--
 **zambrovski/zambrovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
