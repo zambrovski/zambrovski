@@ -1,5 +1,5 @@
 [![zambrovski's github stats](https://github-readme-stats.vercel.app/api?username=zambrovski&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anuraghazra/github-readme-stats)
-[![zambrovski's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zambrovski&hide=javascript,css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/zambrovski/zambrovski)
+[![zambrovski's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zambrovski&hide=scala,javascript,css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/zambrovski/zambrovski)
 
 ### Hi there 👋
 
